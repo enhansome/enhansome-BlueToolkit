@@ -1,29 +1,9 @@
 {
-  "items": [
-    {
-      "description": "For manual attacks refer to the documentation.",
-      "items": [],
-      "title": "Currently BlueToolkit check the following vulnerabilities and attacks:"
-    },
-    {
-      "description": "These attacks a novel/new and are tested by the framework",
-      "items": [],
-      "title": "Novel attacks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Vulnerabilities to be added soon"
-    },
-    {
-      "description": "Shield:\nBlueToolkit is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nFor inquiries contact at https://linktr.ee/schwytz\n",
-      "items": [],
-      "title": "License"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T00:23:17.416Z",
+    "last_updated": "2026-08-19T12:13:28.838Z",
     "original_repository": "sgxgsx/BlueToolkit",
+    "original_repository_id": 800062011,
     "original_repository_sha": "7d487626298d998752d5172f95845da27504b9ad",
     "enhanced_repository": "enhansome/enhansome-BlueToolkit",
     "enhanced_repository_description": null,
