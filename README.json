@@ -1,7 +1,359 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Additionally, we found the following Bluetooth Classic and Bluetooth Low Energy (BLE) vulnerabilities. The table has the following information about the attacks and vulnerabilities - name, type either implementation-specific, protocol-specific or affecting a BT profile, Bluetooth Type (BLE, BT, BT + BLE), BT versions affected, number of exploits, year released, CVE if available, CVSS if available, Hardware if required, Proof of Concept if available and additional information in the comment section with additional links or explanation.\nThe YAML DSL reference syntax is available here.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://research.nccgroup.com/2022/05/15/technical-advisory-tesla-ble-phone-as-a-key-passive-entry-vulnerable-to-relay-attacks/",
+          "description": "BLE Proximity Auth relay Rel BLE 4.0 - 5.3 1 2022 https://research.nccgroup.com/2022/05/15/technical-advisory-tesla-ble-phone-as-a-key-passive-entry-vulnerable-to-relay-attacks/ BLE Proximity Authentication Vulnerable to Relay Attacks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239529746,
+            "language": "Python",
+            "last_commit": "2021-11-23T00:18:26Z",
+            "owner": "Matheus-Garbelini",
+            "repo": "sweyntooth_bluetooth_low_energy_attacks",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/nccgroup/Sniffle",
+          "description": "Sniffle Snif BLE 4.0-5.0 1 2022 TI CC1352/CC26x2 https://github.com/nccgroup/Sniffle",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202839525,
+            "language": "Python",
+            "last_commit": "2025-09-25T01:32:09Z",
+            "owner": "nccgroup",
+            "repo": "Sniffle",
+            "stars": 1159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/RCayre/injectable-firmware",
+          "description": "InjectaBLE Prot BLE 4.0 - 5.2 1 2021 nRF52840 https://github.com/RCayre/injectable-firmware https://hal.laas.fr/hal-03193297v2/document MITM, Send malicious packets, post-exploitation after the session was established/hijacked (Imp and model specific)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376818048,
+            "language": "C",
+            "last_commit": "2022-06-23T14:10:54Z",
+            "owner": "RCayre",
+            "repo": "injectable-firmware",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/darkmentorllc/jackbnimble",
+          "description": "jacknimble Imp BLE 2020 nRF52840 https://github.com/darkmentorllc/jackbnimble https://i.blackhat.com/USA-20/Wednesday/us-20-Kovah-Finding-New-Bluetooth-Low-Energy-Exploits-Via-Reverse-Engineering-Multiple-Vendors-Firmwares.pdf 3 exploits for specific hardware, CVE-2020-15531",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276388678,
+            "language": "C",
+            "last_commit": "2020-08-05T11:56:27Z",
+            "owner": "darkmentorllc",
+            "repo": "jackbnimble",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks",
+          "description": "SweynTooth Imp BLE 12 2020 nRF52840 https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks https://asset-group.github.io/disclosures/sweyntooth/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239529746,
+            "language": "Python",
+            "last_commit": "2021-11-23T00:18:26Z",
+            "owner": "Matheus-Garbelini",
+            "repo": "sweyntooth_bluetooth_low_energy_attacks",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/securing/gattacker",
+          "description": "GATTacking Prot BLE 4.0 1 2016 CSR 8510-based USB dongle https://github.com/securing/gattacker https://www.blackhat.com/docs/us-16/materials/us-16-Jasek-GATTacking-Bluetooth-Smart-Devices-Introducing-a-New-BLE-Proxy-Tool.pdf MITM BLE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64836808,
+            "language": "JavaScript",
+            "last_commit": "2022-01-31T05:53:09Z",
+            "owner": "securing",
+            "repo": "gattacker",
+            "stars": 845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mikeryan/crackle",
+          "description": "Crackle Prot BLE 4 1 2013 https://github.com/mikeryan/crackle https://www.usenix.org/system/files/conference/woot13/woot13-ryan.pdf crack ble encryption",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16268083,
+            "language": "C",
+            "last_commit": "2021-08-26T08:56:39Z",
+            "owner": "mikeryan",
+            "repo": "crackle",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bluez",
+          "description": "MynameIsKeyboard Imp BT 1 2023 CVE-2023-45866 8.8 https://github.com/marcnewlin/hi_my_name_is_keyboard - CVE-2023-45866, CVE-2023-45866, CVE-2023-45866",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 740252957,
+            "language": "Python",
+            "last_commit": "2024-06-24T12:45:15Z",
+            "owner": "marcnewlin",
+            "repo": "hi_my_name_is_keyboard",
+            "stars": 731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Antonioli",
+          "description": "BLUFFS Prot BT 4.2-5.2 6 2023 CVE-2023-24023 6.8 CYW920819EVB-02 https://github.com/francozappa/bluffs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 716981016,
+            "language": "Python",
+            "last_commit": "2024-01-24T07:45:27Z",
+            "owner": "francozappa",
+            "repo": "bluffs",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/TylerTucker/BluesClues",
+          "description": "Blue's Clues Prot BT <=5.3 2022 CVE-2022-24695 4.3 Ubertooth & USRP B210 SDR https://github.com/TylerTucker/BluesClues https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179358 CVE-2022-24695 affects Privacy, defeats non-discoverable feature of BT/EDR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 673064116,
+            "language": "C",
+            "last_commit": "2024-10-10T18:30:49Z",
+            "owner": "TylerTucker",
+            "repo": "BluesClues",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Braktooth",
+          "description": "BrakTooth Imp BT 3.0 - 5.2 16 2021 CVE-2021-28139 8.8 ESP-WROVER-KIT https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks https://asset-group.github.io/disclosures/braktooth/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 374769765,
+            "language": null,
+            "last_commit": "2024-08-31T14:54:50Z",
+            "owner": "Matheus-Garbelini",
+            "repo": "braktooth_esp32_bluetooth_classic_attacks",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/google/security-research/security/advisories/GHSA-7mh3-gq28-gfrq",
+          "description": "BleedingTooth BadChoice Imp BT 4.2-5.2 1 2020 CVE-2020-12352 6.5 https://github.com/google/security-research/security/advisories/GHSA-7mh3-gq28-gfrq https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html Information leak",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272394704,
+            "language": "C",
+            "last_commit": "2026-08-22T07:58:35Z",
+            "owner": "google",
+            "repo": "security-research",
+            "stars": 4614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/google/security-research/security/advisories/GHSA-7mh3-gq28-gfrq",
+          "description": "BleedingTooth BadKarma Imp BT 5.0 1 2020 CVE-2020-12351 8.8 https://github.com/google/security-research/security/advisories/GHSA-7mh3-gq28-gfrq https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html stack-based info leak BlueZ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272394704,
+            "language": "C",
+            "last_commit": "2026-08-22T07:58:35Z",
+            "owner": "google",
+            "repo": "security-research",
+            "stars": 4614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/google/security-research/security/advisories/GHSA-ccx2-w2r4-x649",
+          "description": "BleedingTooth BadVibes Imp BT 5.0+ 1 2020 CVE-2020-24490 6.5 https://github.com/google/security-research/security/advisories/GHSA-ccx2-w2r4-x649 https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html Requires BT 5.0 and higher",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272394704,
+            "language": "C",
+            "last_commit": "2026-08-22T07:58:35Z",
+            "owner": "google",
+            "repo": "security-research",
+            "stars": 4614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/DasSecurity-HatLab/BlueRepli-Plus",
+          "description": "BlueRepli Imp BT 1 2020 No exploit so far https://i.blackhat.com/USA-20/Wednesday/us-20-Xu-Stealthily-Access-Your-Android-Phones-Bypass-The-Bluetooth-Authentication.pdf https://github.com/DasSecurity-HatLab/BlueRepli-Plus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257571042,
+            "language": null,
+            "last_commit": "2020-07-17T09:06:29Z",
+            "owner": "DasSecurity-HatLab",
+            "repo": "BlueRepli-Plus",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/greatscottgadgets/ubertooth",
+          "description": "UberTooth Snif BT ALL 1 2020 Ubertooth https://github.com/greatscottgadgets/ubertooth https://ubertooth.readthedocs.io/en/latest/ Sniffing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9712011,
+            "language": "C",
+            "last_commit": "2026-03-19T15:58:24Z",
+            "owner": "greatscottgadgets",
+            "repo": "ubertooth",
+            "stars": 2124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Antonioli",
+          "description": "BIAS Prot BT <=5.0 4 2019 CVE-2020-10135 5.4 CYW920819, possibly CYW920819M2EVB-01 https://github.com/francozappa/bias https://francozappa.github.io/about-bias/ CVE-2020-10135",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 265033531,
+            "language": "Python",
+            "last_commit": "2021-06-16T08:47:27Z",
+            "owner": "francozappa",
+            "repo": "bias",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ArmisSecurity/blueborne",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107775803,
+            "language": "Python",
+            "last_commit": "2021-05-17T14:39:51Z",
+            "owner": "ArmisSecurity",
+            "repo": "blueborne",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://www.armis.com/research/blueborne/",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 374769765,
+            "language": null,
+            "last_commit": "2024-08-31T14:54:50Z",
+            "owner": "Matheus-Garbelini",
+            "repo": "braktooth_esp32_bluetooth_classic_attacks",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/albazrqa/BluEar",
+          "description": "BlueEar Snif BT ALL 1 2016 Ubertooth (2) https://github.com/albazrqa/BluEar https://www.cs.cityu.edu.hk/~jhuan9/papers/blueear16mobisys.pdf Sniffing, extending the code of Ubertooth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93318826,
+            "language": "C",
+            "last_commit": "2019-07-18T08:09:12Z",
+            "owner": "albazrqa",
+            "repo": "BluEar",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Antonioli",
+          "description": "BLURTooth Prot BT/BLE 4.2, 5.0, 5.1, 5.2 4 2020 CVE-2020-15802 5.9 https://github.com/francozappa/blur https://hexhive.epfl.ch/BLURtooth/ CVE-2020-15802",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 525921405,
+            "language": "Python",
+            "last_commit": "2022-08-17T19:20:34Z",
+            "owner": "francozappa",
+            "repo": "blur",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Antonioli",
+          "description": "KNOB Prot BT/BLE <=5.0 1 2019 CVE-2019-9506 8.1 Nexus 5 (internalblue) https://github.com/francozappa/knob https://knobattack.com/ CVE-2019-9506",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202532520,
+            "language": "Python",
+            "last_commit": "2022-04-04T15:16:08Z",
+            "owner": "francozappa",
+            "repo": "knob",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/maxdos64/BThack",
+          "description": "Method Confusion Prot BT/BLE? 2.1-5.2 1 2020 CVE-2020-10134 6.3 huge selection with different capabilities. https://github.com/maxdos64/BThack https://www.sec.in.tum.de/i20/publications/method-confusion-attack-on-bluetooth-pairing/@@download/file/conference-proceeding.pdf MITM between 2 BLE or BR/EDR devices. Strange hardware needed, CVE-2020-10134",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292780858,
+            "language": "C",
+            "last_commit": "2021-01-07T16:54:45Z",
+            "owner": "maxdos64",
+            "repo": "BThack",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Bluetooth Vulnerabilities and Attacks"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T00:25:18.622Z",
+    "last_updated": "2026-08-24T14:22:22.042Z",
     "original_repository": "sgxgsx/BlueToolkit",
     "original_repository_id": 800062011,
     "original_repository_sha": "9590b3fcd51f4408bfdcf9bfc9614313b360f6fb",
