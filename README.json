@@ -30,7 +30,7 @@
             "last_commit": "2025-09-25T01:32:09Z",
             "owner": "nccgroup",
             "repo": "Sniffle",
-            "stars": 1163
+            "stars": 1164
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2021-08-26T08:56:39Z",
             "owner": "mikeryan",
             "repo": "crackle",
-            "stars": 969
+            "stars": 970
           }
         },
         {
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-26T00:03:19Z",
+            "last_commit": "2026-08-26T19:13:00Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4614
+            "stars": 4615
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-26T00:03:19Z",
+            "last_commit": "2026-08-26T19:13:00Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4614
+            "stars": 4615
           }
         },
         {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-26T00:03:19Z",
+            "last_commit": "2026-08-26T19:13:00Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4614
+            "stars": 4615
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-03-19T15:58:24Z",
             "owner": "greatscottgadgets",
             "repo": "ubertooth",
-            "stars": 2124
+            "stars": 2125
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2021-05-17T14:39:51Z",
             "owner": "ArmisSecurity",
             "repo": "blueborne",
-            "stars": 617
+            "stars": 616
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2022-04-04T15:16:08Z",
             "owner": "francozappa",
             "repo": "knob",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T00:26:10.294Z",
+    "last_updated": "2026-08-27T05:08:51.117Z",
     "original_repository": "sgxgsx/BlueToolkit",
     "original_repository_id": 800062011,
     "original_repository_sha": "9590b3fcd51f4408bfdcf9bfc9614313b360f6fb",
