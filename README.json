@@ -30,7 +30,7 @@
             "last_commit": "2025-09-25T01:32:09Z",
             "owner": "nccgroup",
             "repo": "Sniffle",
-            "stars": 1164
+            "stars": 1166
           }
         },
         {
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-26T19:13:00Z",
+            "last_commit": "2026-08-27T10:01:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4615
+            "stars": 4616
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-26T19:13:00Z",
+            "last_commit": "2026-08-27T10:01:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4615
+            "stars": 4616
           }
         },
         {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-26T19:13:00Z",
+            "last_commit": "2026-08-27T10:01:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4615
+            "stars": 4616
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-03-19T15:58:24Z",
             "owner": "greatscottgadgets",
             "repo": "ubertooth",
-            "stars": 2125
+            "stars": 2126
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2021-06-16T08:47:27Z",
             "owner": "francozappa",
             "repo": "bias",
-            "stars": 94
+            "stars": 95
           }
         },
         {
@@ -353,9 +353,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:08:51.117Z",
-    "original_repository": "sgxgsx/BlueToolkit",
-    "original_repository_id": 800062011,
+    "last_updated": "2026-08-27T11:30:41.364Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 800062011,
+      "language": "Jupyter Notebook",
+      "last_commit": "2026-08-23T16:32:38Z",
+      "owner": "sgxgsx",
+      "repo": "BlueToolkit",
+      "stars": 729
+    },
     "original_repository_sha": "9590b3fcd51f4408bfdcf9bfc9614313b360f6fb",
     "enhanced_repository": "enhansome/enhansome-BlueToolkit",
     "enhanced_repository_description": null,
