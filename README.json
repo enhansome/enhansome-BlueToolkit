@@ -16,7 +16,8 @@
             "owner": "Matheus-Garbelini",
             "repo": "sweyntooth_bluetooth_low_energy_attacks",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "nccgroup",
             "repo": "Sniffle",
             "stars": 1166
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "RCayre",
             "repo": "injectable-firmware",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "darkmentorllc",
             "repo": "jackbnimble",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Matheus-Garbelini",
             "repo": "sweyntooth_bluetooth_low_energy_attacks",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "securing",
             "repo": "gattacker",
             "stars": 845
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mikeryan",
             "repo": "crackle",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "marcnewlin",
             "repo": "hi_my_name_is_keyboard",
             "stars": 732
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "francozappa",
             "repo": "bluffs",
             "stars": 523
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "TylerTucker",
             "repo": "BluesClues",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Matheus-Garbelini",
             "repo": "braktooth_esp32_bluetooth_classic_attacks",
             "stars": 580
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -180,8 +191,9 @@
             "last_commit": "2026-08-27T10:01:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4616
-          }
+            "stars": 4619
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -195,8 +207,9 @@
             "last_commit": "2026-08-27T10:01:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4616
-          }
+            "stars": 4619
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -210,8 +223,9 @@
             "last_commit": "2026-08-27T10:01:40Z",
             "owner": "google",
             "repo": "security-research",
-            "stars": 4616
-          }
+            "stars": 4619
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "DasSecurity-HatLab",
             "repo": "BlueRepli-Plus",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "greatscottgadgets",
             "repo": "ubertooth",
             "stars": 2126
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "francozappa",
             "repo": "bias",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "ArmisSecurity",
             "repo": "blueborne",
             "stars": 616
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "Matheus-Garbelini",
             "repo": "braktooth_esp32_bluetooth_classic_attacks",
             "stars": 580
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "albazrqa",
             "repo": "BluEar",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "francozappa",
             "repo": "blur",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "francozappa",
             "repo": "knob",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         },
         {
           "node_type": "item",
@@ -346,14 +368,15 @@
             "owner": "maxdos64",
             "repo": "BThack",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T07:07:38.235Z"
         }
       ],
       "title": "Bluetooth Vulnerabilities and Attacks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:41.364Z",
+    "last_updated": "2026-08-28T07:07:38.235Z",
     "original_repository_info": {
       "archived": false,
       "id": 800062011,
