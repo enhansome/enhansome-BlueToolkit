@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proof of Concept of Sweyntooth Bluetooth Low Energy (BLE) vulnerabilities.",
+            "homepage": null,
             "id": 239529746,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-23T00:18:26Z",
+            "open_issues": 15,
             "owner": "Matheus-Garbelini",
             "repo": "sweyntooth_bluetooth_low_energy_attacks",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -26,12 +31,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sniffer for Bluetooth 5 and 4.x LE",
+            "homepage": "https://www.nccgroup.com/research-blog/sniffle-a-sniffer-for-bluetooth-5/",
             "id": 202839525,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-25T01:32:09Z",
+            "open_issues": 31,
             "owner": "nccgroup",
             "repo": "Sniffle",
-            "stars": 1166
+            "stars": 1166,
+            "topics": [
+              "ble",
+              "bluetooth",
+              "sniffer"
+            ]
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom firmware for nrf52840-dongle, allowing to easily eavesdrop Bluetooth Low Energy communications and perform multiple active attacks based on InjectaBLE strategy.",
+            "homepage": null,
             "id": 376818048,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2022-06-23T14:10:54Z",
+            "open_issues": 5,
             "owner": "RCayre",
             "repo": "injectable-firmware",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -58,12 +77,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 276388678,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-05T11:56:27Z",
+            "open_issues": 0,
             "owner": "darkmentorllc",
             "repo": "jackbnimble",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -74,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proof of Concept of Sweyntooth Bluetooth Low Energy (BLE) vulnerabilities.",
+            "homepage": null,
             "id": 239529746,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-23T00:18:26Z",
+            "open_issues": 15,
             "owner": "Matheus-Garbelini",
             "repo": "sweyntooth_bluetooth_low_energy_attacks",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -90,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Node.js package for BLE (Bluetooth Low Energy) security assessment using Man-in-the-Middle and other attacks",
+            "homepage": "http://www.gattack.io",
             "id": 64836808,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-31T05:53:09Z",
+            "open_issues": 18,
             "owner": "securing",
             "repo": "gattacker",
-            "stars": 845
+            "stars": 845,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -106,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crack and decrypt BLE encryption",
+            "homepage": null,
             "id": 16268083,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-08-26T08:56:39Z",
+            "open_issues": 6,
             "owner": "mikeryan",
             "repo": "crackle",
-            "stars": 970
+            "stars": 970,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -122,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 740252957,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-06-24T12:45:15Z",
+            "open_issues": 17,
             "owner": "marcnewlin",
             "repo": "hi_my_name_is_keyboard",
-            "stars": 732
+            "stars": 732,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -138,12 +182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023] ",
+            "homepage": null,
             "id": 716981016,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-24T07:45:27Z",
+            "open_issues": 3,
             "owner": "francozappa",
             "repo": "bluffs",
-            "stars": 523
+            "stars": 522,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -154,12 +203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Discover Non-Discoverable Bluetooth Classic devices",
+            "homepage": null,
             "id": 673064116,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-10-10T18:30:49Z",
+            "open_issues": 0,
             "owner": "TylerTucker",
             "repo": "BluesClues",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -170,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers",
+            "homepage": "https://braktooth.com",
             "id": 374769765,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-31T14:54:50Z",
+            "open_issues": 32,
             "owner": "Matheus-Garbelini",
             "repo": "braktooth_esp32_bluetooth_classic_attacks",
-            "stars": 580
+            "stars": 580,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -186,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+            "homepage": "https://www.google.com/about/appsecurity/",
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-27T10:01:40Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T08:18:40Z",
+            "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4619
+            "stars": 4621,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -202,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+            "homepage": "https://www.google.com/about/appsecurity/",
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-27T10:01:40Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T08:18:40Z",
+            "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4619
+            "stars": 4621,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -218,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+            "homepage": "https://www.google.com/about/appsecurity/",
             "id": 272394704,
             "language": "C",
-            "last_commit": "2026-08-27T10:01:40Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T08:18:40Z",
+            "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4619
+            "stars": 4621,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -234,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BlueRepli-Plus",
+            "homepage": null,
             "id": 257571042,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2020-07-17T09:06:29Z",
+            "open_issues": 1,
             "owner": "DasSecurity-HatLab",
             "repo": "BlueRepli-Plus",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -250,12 +329,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software, firmware, and hardware designs for Ubertooth",
+            "homepage": "https://greatscottgadgets.com/ubertoothone/",
             "id": 9712011,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-03-19T15:58:24Z",
+            "open_issues": 53,
             "owner": "greatscottgadgets",
             "repo": "ubertooth",
-            "stars": 2126
+            "stars": 2126,
+            "topics": [
+              "bluetooth",
+              "hardware",
+              "radio",
+              "rf"
+            ]
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -266,12 +355,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bluetooth Impersonation AttackS (BIAS) [CVE 2020-10135]",
+            "homepage": "https://francozappa.github.io/about-bias/",
             "id": 265033531,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-16T08:47:27Z",
+            "open_issues": 6,
             "owner": "francozappa",
             "repo": "bias",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "authentication",
+              "bias",
+              "bluetooth",
+              "security",
+              "wireless"
+            ]
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -282,12 +382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PoC scripts demonstrating the BlueBorne vulnerabilities",
+            "homepage": "https://www.armis.com/blueborne/",
             "id": 107775803,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-17T14:39:51Z",
+            "open_issues": 2,
             "owner": "ArmisSecurity",
             "repo": "blueborne",
-            "stars": 616
+            "stars": 616,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -298,12 +403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Series of Baseband & LMP Exploits against Bluetooth Classic Controllers",
+            "homepage": "https://braktooth.com",
             "id": 374769765,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-31T14:54:50Z",
+            "open_issues": 32,
             "owner": "Matheus-Garbelini",
             "repo": "braktooth_esp32_bluetooth_classic_attacks",
-            "stars": 580
+            "stars": 580,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -314,12 +424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Practical Bluetooth Traffic Sniffing: Systems and Privacy Implications",
+            "homepage": null,
             "id": 93318826,
             "language": "C",
+            "license": null,
             "last_commit": "2019-07-18T08:09:12Z",
+            "open_issues": 1,
             "owner": "albazrqa",
             "repo": "BluEar",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -330,12 +445,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BLURtooth: Exploiting Cross-Transport Key Derivation in Bluetooth Classic and Bluetooth Low Energy [CVE-2020-15802] [CVE-2022-20361]",
+            "homepage": "https://hexhive.epfl.ch/BLURtooth/",
             "id": 525921405,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-17T19:20:34Z",
+            "open_issues": 1,
             "owner": "francozappa",
             "repo": "blur",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "bluetooth",
+              "bluetooth-le",
+              "bluetooth-low-energy",
+              "ctkd"
+            ]
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -346,12 +471,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Key Negotiation Of Bluetooth (KNOB) attacks on Bluetooth BR/EDR and BLE  [CVE-2019-9506]",
+            "homepage": "https://knobattack.com/",
             "id": 202532520,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-04T15:16:08Z",
+            "open_issues": 2,
             "owner": "francozappa",
             "repo": "knob",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "ble",
+              "bluetooth",
+              "encryption",
+              "entropy",
+              "knob",
+              "knobattack",
+              "lmp",
+              "security",
+              "wireless"
+            ]
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         },
@@ -362,12 +502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 292780858,
             "language": "C",
+            "license": null,
             "last_commit": "2021-01-07T16:54:45Z",
+            "open_issues": 2,
             "owner": "maxdos64",
             "repo": "BThack",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
         }
@@ -376,15 +521,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:07:38.235Z",
+    "last_updated": "2026-08-29T04:33:19.449Z",
     "original_repository_info": {
       "archived": false,
+      "description": " BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an \"Awesome Bluetooth Security\" way",
+      "homepage": null,
       "id": 800062011,
       "language": "Jupyter Notebook",
+      "license": "NOASSERTION",
       "last_commit": "2026-08-23T16:32:38Z",
+      "open_issues": 3,
       "owner": "sgxgsx",
       "repo": "BlueToolkit",
-      "stars": 729
+      "stars": 729,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bluetooth",
+        "bluetooth-classic",
+        "bluetooth-hacking",
+        "bluetooth-security",
+        "bluetooth-toolkit",
+        "exploit",
+        "information-security",
+        "penetration-testing",
+        "pentesting",
+        "security",
+        "security-tools",
+        "wireless-security"
+      ]
     },
     "original_repository_sha": "9590b3fcd51f4408bfdcf9bfc9614313b360f6fb",
     "enhanced_repository": "enhansome/enhansome-BlueToolkit",
