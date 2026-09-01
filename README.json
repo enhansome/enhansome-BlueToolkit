@@ -170,7 +170,7 @@
             "open_issues": 17,
             "owner": "marcnewlin",
             "repo": "hi_my_name_is_keyboard",
-            "stars": 732,
+            "stars": 731,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -191,7 +191,7 @@
             "open_issues": 3,
             "owner": "francozappa",
             "repo": "bluffs",
-            "stars": 522,
+            "stars": 523,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -254,7 +254,7 @@
             "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4624,
+            "stars": 4625,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -275,7 +275,7 @@
             "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4624,
+            "stars": 4625,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -296,7 +296,7 @@
             "open_issues": 89,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4624,
+            "stars": 4625,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -521,7 +521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:41:26.553Z",
+    "last_updated": "2026-09-01T02:05:40.350Z",
     "original_repository_info": {
       "archived": false,
       "description": " BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an \"Awesome Bluetooth Security\" way",
