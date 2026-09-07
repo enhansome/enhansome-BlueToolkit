@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "Matheus-Garbelini",
             "repo": "sweyntooth_bluetooth_low_energy_attacks",
-            "stars": 333,
+            "stars": 334,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -107,7 +107,7 @@
             "open_issues": 15,
             "owner": "Matheus-Garbelini",
             "repo": "sweyntooth_bluetooth_low_energy_attacks",
-            "stars": 333,
+            "stars": 334,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -338,7 +338,7 @@
             "open_issues": 53,
             "owner": "greatscottgadgets",
             "repo": "ubertooth",
-            "stars": 2128,
+            "stars": 2129,
             "topics": [
               "bluetooth",
               "hardware",
@@ -521,7 +521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:22:01.880Z",
+    "last_updated": "2026-09-07T01:20:17.657Z",
     "original_repository_info": {
       "archived": false,
       "description": " BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an \"Awesome Bluetooth Security\" way",
