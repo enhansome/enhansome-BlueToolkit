@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "Matheus-Garbelini",
             "repo": "sweyntooth_bluetooth_low_energy_attacks",
-            "stars": 336,
+            "stars": 337,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -40,7 +40,7 @@
             "open_issues": 31,
             "owner": "nccgroup",
             "repo": "Sniffle",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "ble",
               "bluetooth",
@@ -107,7 +107,7 @@
             "open_issues": 15,
             "owner": "Matheus-Garbelini",
             "repo": "sweyntooth_bluetooth_low_energy_attacks",
-            "stars": 336,
+            "stars": 337,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -233,7 +233,7 @@
             "open_issues": 32,
             "owner": "Matheus-Garbelini",
             "repo": "braktooth_esp32_bluetooth_classic_attacks",
-            "stars": 582,
+            "stars": 583,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -250,11 +250,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T16:43:45Z",
-            "open_issues": 92,
+            "last_commit": "2026-09-14T13:10:02Z",
+            "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4637,
+            "stars": 4638,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -271,11 +271,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T16:43:45Z",
-            "open_issues": 92,
+            "last_commit": "2026-09-14T13:10:02Z",
+            "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4637,
+            "stars": 4638,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -292,11 +292,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T16:43:45Z",
-            "open_issues": 92,
+            "last_commit": "2026-09-14T13:10:02Z",
+            "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4637,
+            "stars": 4638,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -338,7 +338,7 @@
             "open_issues": 52,
             "owner": "greatscottgadgets",
             "repo": "ubertooth",
-            "stars": 2133,
+            "stars": 2134,
             "topics": [
               "bluetooth",
               "hardware",
@@ -412,7 +412,7 @@
             "open_issues": 32,
             "owner": "Matheus-Garbelini",
             "repo": "braktooth_esp32_bluetooth_classic_attacks",
-            "stars": 582,
+            "stars": 583,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -521,7 +521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:45:56.453Z",
+    "last_updated": "2026-09-15T01:56:15.501Z",
     "original_repository_info": {
       "archived": false,
       "description": " BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an \"Awesome Bluetooth Security\" way",
