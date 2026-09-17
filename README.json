@@ -250,7 +250,7 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T14:49:01Z",
+            "last_commit": "2026-09-16T21:33:02Z",
             "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
@@ -271,7 +271,7 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T14:49:01Z",
+            "last_commit": "2026-09-16T21:33:02Z",
             "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
@@ -292,7 +292,7 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T14:49:01Z",
+            "last_commit": "2026-09-16T21:33:02Z",
             "open_issues": 94,
             "owner": "google",
             "repo": "security-research",
@@ -521,7 +521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:46:33.955Z",
+    "last_updated": "2026-09-17T01:49:56.889Z",
     "original_repository_info": {
       "archived": false,
       "description": " BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an \"Awesome Bluetooth Security\" way",
