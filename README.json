@@ -40,7 +40,7 @@
             "open_issues": 31,
             "owner": "nccgroup",
             "repo": "Sniffle",
-            "stars": 1195,
+            "stars": 1197,
             "topics": [
               "ble",
               "bluetooth",
@@ -149,7 +149,7 @@
             "open_issues": 6,
             "owner": "mikeryan",
             "repo": "crackle",
-            "stars": 976,
+            "stars": 977,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -170,7 +170,7 @@
             "open_issues": 17,
             "owner": "marcnewlin",
             "repo": "hi_my_name_is_keyboard",
-            "stars": 731,
+            "stars": 732,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -191,7 +191,7 @@
             "open_issues": 3,
             "owner": "francozappa",
             "repo": "bluffs",
-            "stars": 523,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -254,7 +254,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4710,
+            "stars": 4714,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -275,7 +275,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4710,
+            "stars": 4714,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -296,7 +296,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4710,
+            "stars": 4714,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -391,7 +391,7 @@
             "open_issues": 2,
             "owner": "ArmisSecurity",
             "repo": "blueborne",
-            "stars": 619,
+            "stars": 620,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -521,7 +521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T02:01:39.791Z",
+    "last_updated": "2026-10-25T01:48:05.336Z",
     "original_repository_info": {
       "archived": false,
       "description": " BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an \"Awesome Bluetooth Security\" way",
