@@ -40,7 +40,7 @@
             "open_issues": 31,
             "owner": "nccgroup",
             "repo": "Sniffle",
-            "stars": 1198,
+            "stars": 1197,
             "topics": [
               "ble",
               "bluetooth",
@@ -65,7 +65,7 @@
             "open_issues": 5,
             "owner": "RCayre",
             "repo": "injectable-firmware",
-            "stars": 75,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -128,7 +128,7 @@
             "open_issues": 18,
             "owner": "securing",
             "repo": "gattacker",
-            "stars": 856,
+            "stars": 855,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -149,7 +149,7 @@
             "open_issues": 6,
             "owner": "mikeryan",
             "repo": "crackle",
-            "stars": 977,
+            "stars": 978,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -191,7 +191,7 @@
             "open_issues": 3,
             "owner": "francozappa",
             "repo": "bluffs",
-            "stars": 526,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -233,7 +233,7 @@
             "open_issues": 32,
             "owner": "Matheus-Garbelini",
             "repo": "braktooth_esp32_bluetooth_classic_attacks",
-            "stars": 595,
+            "stars": 596,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -250,11 +250,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T11:31:04Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-28T18:20:20Z",
+            "open_issues": 69,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4719,
+            "stars": 4720,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -271,11 +271,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T11:31:04Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-28T18:20:20Z",
+            "open_issues": 69,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4719,
+            "stars": 4720,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -292,11 +292,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T11:31:04Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-28T18:20:20Z",
+            "open_issues": 69,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4719,
+            "stars": 4720,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -412,7 +412,7 @@
             "open_issues": 32,
             "owner": "Matheus-Garbelini",
             "repo": "braktooth_esp32_bluetooth_classic_attacks",
-            "stars": 595,
+            "stars": 596,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -521,7 +521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:37:29.131Z",
+    "last_updated": "2026-10-29T02:56:41.871Z",
     "original_repository_info": {
       "archived": false,
       "description": " BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an \"Awesome Bluetooth Security\" way",
