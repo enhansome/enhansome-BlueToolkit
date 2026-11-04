@@ -250,11 +250,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T14:28:45Z",
+            "last_commit": "2026-11-04T00:01:53Z",
             "open_issues": 70,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4725,
+            "stars": 4727,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -271,11 +271,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T14:28:45Z",
+            "last_commit": "2026-11-04T00:01:53Z",
             "open_issues": 70,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4725,
+            "stars": 4727,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -292,11 +292,11 @@
             "id": 272394704,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T14:28:45Z",
+            "last_commit": "2026-11-04T00:01:53Z",
             "open_issues": 70,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4725,
+            "stars": 4727,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -338,7 +338,7 @@
             "open_issues": 53,
             "owner": "greatscottgadgets",
             "repo": "ubertooth",
-            "stars": 2155,
+            "stars": 2156,
             "topics": [
               "bluetooth",
               "hardware",
@@ -521,7 +521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T04:05:33.028Z",
+    "last_updated": "2026-11-04T03:23:54.020Z",
     "original_repository_info": {
       "archived": false,
       "description": " BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an \"Awesome Bluetooth Security\" way",
