@@ -251,10 +251,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T00:01:31Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4752,
+            "stars": 4753,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -272,10 +272,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T00:01:31Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4752,
+            "stars": 4753,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -293,10 +293,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T00:01:31Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "google",
             "repo": "security-research",
-            "stars": 4752,
+            "stars": 4753,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -317,7 +317,7 @@
             "open_issues": 1,
             "owner": "DasSecurity-HatLab",
             "repo": "BlueRepli-Plus",
-            "stars": 17,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:38.235Z"
@@ -338,7 +338,7 @@
             "open_issues": 53,
             "owner": "greatscottgadgets",
             "repo": "ubertooth",
-            "stars": 2158,
+            "stars": 2159,
             "topics": [
               "bluetooth",
               "hardware",
@@ -521,7 +521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T04:05:24.537Z",
+    "last_updated": "2026-11-24T07:07:44.067Z",
     "original_repository_info": {
       "archived": false,
       "description": " BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an \"Awesome Bluetooth Security\" way",
